@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "gender": "male",
+        "name": "Sazid",
+        "contact": "sheikhmdsazidulislam@gmail.com",
+        "address":"Dhaka, Bangladesh",
+        "photoURL":"https://simgbb.com/avatar/KcprcYYqnMZy.jpg"
+    },
+    {
+        "id": 2,
+        "gender": "female",
+        "name": "Lazz",
+        "contact": "sanjaislamlazz@gmail.com",
+        "address":"Khulna, Bangladesh",
+        "photoURL":"https://i.ibb.co/H4DNK4V/babySit.png"
+    },
+    {
+        "id": 3,
+        "gender": "female",
+        "name": "Mukta",
+        "contact": "mukta@gmail.com",
+        "address":"Dhaka, Bangladesh",
+        "photoURL":"https://i.ibb.co/fSF9Bpm/refuse-Shelter.png"
+    },
+    {
+        "id": 4,
+        "gender": "male",
+        "name": "Shafiq",
+        "contact": "shafiqulislam@gmail.com",
+        "address":"Dhaka, Bangladesh",
+        "photoURL":"https://i.ibb.co/2sj5H9x/customer-2.png"
+    },
+    {
+        "id": 5,
+        "gender": "male",
+        "name": "Sazid",
+        "contact": "sheikhmdsazidulislam@gmail.com",
+        "address":"Dhaka, Bangladesh",
+        "photoURL":"https://simgbb.com/avatar/KcprcYYqnMZy.jpg"
+    }
+]
